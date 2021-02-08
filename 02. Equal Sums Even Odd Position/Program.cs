@@ -6,7 +6,8 @@ namespace _02._Equal_Sums_Even_Odd_Position
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+
         }
     }
 }

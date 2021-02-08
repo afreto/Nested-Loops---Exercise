@@ -6,7 +6,7 @@ namespace _01._Number_Pyramid
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             int n = int.Parse(Console.ReadLine());
             int curr = 1;
             bool isBigger = false;
