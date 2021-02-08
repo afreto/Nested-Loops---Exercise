@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Number Pyramid", "01. N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Equal Sums Even Odd Position", "02. Equal Sums Even Odd Position\02. Equal Sums Even Odd Position.csproj", "{7902C2E6-1508-4EB1-907D-A181A56BC49F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum Prime Non Prime", "03. Sum Prime Non Prime\03. Sum Prime Non Prime.csproj", "{14AE206F-ECCF-4574-B709-EF97BEB4BA21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Train The Trainers", "04. Train The Trainers\04. Train The Trainers.csproj", "{7FEEA402-3450-4182-808C-2C1691035DDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{7902C2E6-1508-4EB1-907D-A181A56BC49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7902C2E6-1508-4EB1-907D-A181A56BC49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7902C2E6-1508-4EB1-907D-A181A56BC49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14AE206F-ECCF-4574-B709-EF97BEB4BA21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14AE206F-ECCF-4574-B709-EF97BEB4BA21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14AE206F-ECCF-4574-B709-EF97BEB4BA21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14AE206F-ECCF-4574-B709-EF97BEB4BA21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEEA402-3450-4182-808C-2C1691035DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEEA402-3450-4182-808C-2C1691035DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEEA402-3450-4182-808C-2C1691035DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEEA402-3450-4182-808C-2C1691035DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
