@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Train The Trainers", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Password Generator", "05. Password Generator\05. Password Generator.csproj", "{91043AE3-6E54-4FA4-A437-8780F1200285}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Special Numbers", "06. Special Numbers\06. Special Numbers.csproj", "{FBE3A435-024F-4DBC-878A-6CCAF5386DD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{91043AE3-6E54-4FA4-A437-8780F1200285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91043AE3-6E54-4FA4-A437-8780F1200285}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91043AE3-6E54-4FA4-A437-8780F1200285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE3A435-024F-4DBC-878A-6CCAF5386DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE3A435-024F-4DBC-878A-6CCAF5386DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE3A435-024F-4DBC-878A-6CCAF5386DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE3A435-024F-4DBC-878A-6CCAF5386DD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
